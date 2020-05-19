@@ -1,0 +1,655 @@
+fileFormatVersion: 2
+guid: 42cc6b3dd2047f64cac1b445dd58500b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7610807049111411328
+    second: Fire heal particle_0
+  - first:
+      213: -1346690187338307523
+    second: Fire heal particle_1
+  - first:
+      213: -5676004049690647163
+    second: Fire heal particle_2
+  - first:
+      213: -3576183812625825929
+    second: Fire heal particle_3
+  - first:
+      213: -7893815869404243451
+    second: Fire heal particle_4
+  - first:
+      213: 3297123214623607417
+    second: Fire heal particle_5
+  - first:
+      213: 5940070437931984856
+    second: Fire heal particle_6
+  - first:
+      213: -8704522937518988143
+    second: Fire heal particle_7
+  - first:
+      213: 5874461350552220597
+    second: Fire heal particle_8
+  - first:
+      213: -4175128842945371094
+    second: Fire heal particle_9
+  - first:
+      213: -4009990032543962081
+    second: Fire heal particle_10
+  - first:
+      213: 4617786644766375734
+    second: Fire heal particle_11
+  - first:
+      213: 511861673352125119
+    second: Fire heal particle_12
+  - first:
+      213: -4350950871416703319
+    second: Fire heal particle_13
+  - first:
+      213: 3836924801033627863
+    second: Fire heal particle_14
+  - first:
+      213: 7625849564476922790
+    second: Fire heal particle_15
+  - first:
+      213: 4903557066178441543
+    second: Fire heal particle_16
+  - first:
+      213: -1688542345602055887
+    second: Fire heal particle_17
+  - first:
+      213: 8834187321289156647
+    second: Fire heal particle_18
+  - first:
+      213: -1784152081090354401
+    second: Fire heal particle_19
+  - first:
+      213: 5106387056582105567
+    second: Fire heal particle_20
+  - first:
+      213: 6935708519566853128
+    second: Fire heal particle_21
+  - first:
+      213: -5992297595921791942
+    second: Fire heal particle_22
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fire heal particle_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 514
+        width: 89
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085eca7005bf06690800000000000000
+      internalID: -7610807049111411328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire heal particle_1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 509
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d382231e8689f4de0800000000000000
+      internalID: -1346690187338307523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire heal particle_2
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 508
+        width: 97
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585a28ab368ca31b0800000000000000
+      internalID: -5676004049690647163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire heal particle_3
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 502
+        width: 90
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f7fe415c7de5ec0800000000000000
+      internalID: -3576183812625825929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire heal particle_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 500
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a91dd3a48837290800000000000000
+      internalID: -7893815869404243451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire heal particle_5
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 500
+        width: 96
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a8554481cb1cd20800000000000000
+      internalID: 3297123214623607417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire heal particle_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 93
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d72cb9679e5f6250800000000000000
+      internalID: 5940070437931984856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire heal particle_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 93
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194e0f1c182533780800000000000000
+      internalID: -8704522937518988143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire heal particle_8
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 400
+        width: 99
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b33d6e5977468150800000000000000
+      internalID: 5874461350552220597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire heal particle_9
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 300
+        width: 91
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24e0c82076fe06c0800000000000000
+      internalID: -4175128842945371094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire heal particle_10
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 400
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c2c5daf47a958c0800000000000000
+      internalID: -4009990032543962081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire heal particle_11
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 398
+        width: 93
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fb7d1cc7ca51040800000000000000
+      internalID: 4617786644766375734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire heal particle_12
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 400
+        width: 100
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba5a4eda7f7a1700800000000000000
+      internalID: 511861673352125119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire heal particle_13
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 400
+        width: 92
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6f70a1c315e93c0800000000000000
+      internalID: -4350950871416703319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire heal particle_14
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 19
+        width: 94
+        height: 274
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8ee7317ce7f3530800000000000000
+      internalID: 3836924801033627863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire heal particle_15
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 229
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abd63186c574d960800000000000000
+      internalID: 7625849564476922790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire heal particle_16
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 211
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7413c69eb2fec0440800000000000000
+      internalID: 4903557066178441543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire heal particle_17
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 38
+        width: 116
+        height: 354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1314f26dea71198e0800000000000000
+      internalID: -1688542345602055887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire heal particle_18
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 300
+        width: 96
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72823bc2096599a70800000000000000
+      internalID: 8834187321289156647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire heal particle_19
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 230
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13e555922b6d37e0800000000000000
+      internalID: -1784152081090354401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire heal particle_20
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 117
+        width: 6
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd99a3129f78dd640800000000000000
+      internalID: 5106387056582105567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire heal particle_21
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 300
+        width: 96
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804ce6ec626904060800000000000000
+      internalID: 6935708519566853128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire heal particle_22
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 118
+        width: 118
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3487a6c51517dca0800000000000000
+      internalID: -5992297595921791942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
