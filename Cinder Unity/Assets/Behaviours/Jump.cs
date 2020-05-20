@@ -25,12 +25,15 @@ public class Jump : MonoBehaviour
     public Transform groundCheck;
     public float checkRadius;
     public LayerMask whatIsGround;
+    private float jumpRemember = 0;
+    public float coyoteTime;
 
     void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
         extraJumps = extraJumpValue;
-    }
+        jumpRemember = 0;
+}
 
     void FixedUpdate()
     {
@@ -39,16 +42,21 @@ public class Jump : MonoBehaviour
             Vector2 v = new Vector2(rb.velocity.x,-maxFallVelocity);
             rb.velocity = v;
         }
+        isGrounded = Physics2D.OverlapCircle(groundCheck.position, checkRadius, whatIsGround);
+        if(isGrounded)
+        {
+            jumpRemember = Time.time + coyoteTime;
+        }
     }
 
     public void jump(bool jumpInput,bool jumpHold)
     {
-        isGrounded = Physics2D.OverlapCircle(groundCheck.position, checkRadius, whatIsGround);
-        if (isGrounded)
+        
+        if (coyoteCheck())
         {
             extraJumps = extraJumpValue;
         }
-        if (jumpInput && isGrounded)
+        if (jumpInput && coyoteCheck())
         {
             rb.velocity = getJumpVector();
         }
@@ -77,5 +85,11 @@ public class Jump : MonoBehaviour
         Vector2 jump = Vector2.up * jumpVelocity;
         jump.x = rb.velocity.x;
         return jump;
+    }
+
+    private bool coyoteCheck()
+    {
+        bool result = jumpRemember>Time.time;
+        return result;
     }
 }

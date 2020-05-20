@@ -1,1 +1,7 @@
 Cinder Unity/Library/
+Cinder Unity/Temp/
+Cinder Unity/.vs/
+Cinder Unity/obj/
+Cinder Unity/Cinder Unity.sln
+Cinder Unity/Assembly-CSharp.csproj
+Cinder Unity/ProjectSettings/QualitySettings.asset
