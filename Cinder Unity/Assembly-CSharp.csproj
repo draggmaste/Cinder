@@ -75,6 +75,7 @@
     <Compile Include="Assets\Damage\Scripts\Health.cs" />
     <Compile Include="Assets\Environment\Climbable.cs" />
     <Compile Include="Assets\Environment\InteractableTrigger.cs" />
+    <Compile Include="Assets\Environment\KillZone.cs" />
     <Compile Include="Assets\Environment\MoveStartEnd.cs" />
     <Compile Include="Assets\Environment\PressurePlate.cs" />
     <Compile Include="Assets\Environment\Switch.cs" />
@@ -84,6 +85,7 @@
     <Compile Include="Assets\Math\Bezier.cs" />
     <Compile Include="Assets\Player\Scripts\PlayerControler.cs" />
     <Compile Include="Assets\Player\Scripts\PlayerData.cs" />
+    <Compile Include="Assets\Player\Scripts\RespawnScript.cs" />
     <Compile Include="Assets\PlayerUI.cs" />
     <Compile Include="Assets\Sigurds assets\Camera scripts\CameraMod.cs" />
     <Compile Include="Assets\Sigurds assets\Camera scripts\CameraSwitch.cs" />
