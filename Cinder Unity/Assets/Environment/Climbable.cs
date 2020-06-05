@@ -11,6 +11,13 @@ public class Climbable : InteractableTrigger
     private bool interact = false;
     private float gravModMemory = 0;
 
+    public GameObject text;
+
+    private void Start()
+    {
+        text.SetActive(false);
+    }
+
     void Awake()
     {
         rb = player.controlObject.GetComponent<Rigidbody2D>();
@@ -21,6 +28,7 @@ public class Climbable : InteractableTrigger
         {
             playerInRange = true;
             Debug.Log("Player Detected!");
+            text.SetActive(true);
         }
     }
 
@@ -29,6 +37,7 @@ public class Climbable : InteractableTrigger
         if (other.tag == "Player")
         {
             playerInRange = false;
+            text.SetActive(false);
         }
     }
 
@@ -47,11 +56,13 @@ public class Climbable : InteractableTrigger
                 player.climbingObject = this;
                 gravModMemory = rb.gravityScale;
                 rb.gravityScale = 0;
+                text.SetActive(false);
             }
             else
             {
                 player.climbingObject = null;
                 rb.gravityScale = gravModMemory;
+                text.SetActive(true);
             }
         }
         if (!playerInRange && getActiveState())
