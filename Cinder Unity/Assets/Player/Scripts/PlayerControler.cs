@@ -12,6 +12,11 @@ public class PlayerControler : MonoBehaviour
     public float spiritSpeedMultiplier;
     public Climbable climbingObject;
 
+    bool inputOverride;
+    int overrideFrames;
+    float moveOverride;
+    bool jumpOverride;
+
     #region public settings
     public int maxFlame = 200;
     public float checkRadius = 0.5f;
@@ -26,6 +31,7 @@ public class PlayerControler : MonoBehaviour
     public HoldingItem heldItem;
     public Move move;
     public Climb climb;
+    public WallSlide wallSlide;
     #endregion
 
     #region input variables
@@ -73,42 +79,90 @@ public class PlayerControler : MonoBehaviour
     {
         if (climbingObject == null)
         {
-            if (jump != null) jump.jump(jumpInput, jumpHold);
-            if (heldItem != null)
+            if (!inputOverride)
             {
-                if (pickupInput) heldItem.pickupOrDrop();
-                if (pickupHold && heldItem != null) heldItem.useItem();
-            }
-            if (useableBody != null)
-            {
-                if (switchBodyInput && !ReferenceEquals(useableBody, controlObject)) switchBody(useableBody);
-            }
-            move.move(moveInput);
-            if (move.vertical)
-            {
-                move.moveVertical(moveVerticalInput);
-            }
-            if (dash != null) dash.dash(dashInput);
-        }
-        if(climbingObject != null)
-        {
-            if(climbingObject.vertical)
-            {
-                climb.climb(moveVerticalInput,climbingObject.vertical);
+                normalBehaviour();
             }
             else
             {
-                climb.climb(moveInput, climbingObject.vertical);
+                
+                
+                if (jump != null) jump.jump(jumpOverride, jumpOverride);
+                move.move(moveOverride);
+                overrideFrames--;
+                if(overrideFrames == 0)
+                {
+                    inputOverride = false;
+                }
             }
-            
-            if(jumpInput)
-            {
-                climbingObject.letGo();
-                jump.jump(jumpInput, jumpHold);
-            }
-            jump.resetJumps();
+        }
+        else
+        {
+            climbingBehaviour();
         }
     }
+
+    private void climbingBehaviour()
+    {
+        if (climbingObject.vertical)
+        {
+            climb.climb(moveVerticalInput, climbingObject.vertical);
+        }
+        else
+        {
+            climb.climb(moveInput, climbingObject.vertical);
+        }
+
+        if (jumpInput)
+        {
+            climbingObject.letGo();
+            jump.jump(jumpInput, jumpHold);
+        }
+        jump.resetJumps();
+    }
+
+    private void normalBehaviour()
+    {
+        if (!wallSlide.getSlideState())
+        {
+            if (jump != null) jump.jump(jumpInput, jumpHold);
+        }
+        else
+        {
+            if (jumpInput)
+            {
+                float moveDir = 0;
+                if (moveInput<0) moveDir = 1f;
+                else moveDir = -1f;
+                setInputOverride(wallSlide.wallJumpOverride,moveDir,true,true);
+            }
+        }
+        if (heldItem != null)
+        {
+            if (pickupInput) heldItem.pickupOrDrop();
+            if (pickupHold && heldItem != null) heldItem.useItem();
+        }
+        if (useableBody != null)
+        {
+            if (switchBodyInput && !ReferenceEquals(useableBody, controlObject)) switchBody(useableBody);
+        }
+        move.move(moveInput);
+        if (move.vertical)
+        {
+            move.moveVertical(moveVerticalInput);
+        }
+        if (dash != null) dash.dash(dashInput);
+    }
+
+    private void setInputOverride(int frames, float moveInput, bool jump, bool resetJumps)
+    {
+        if(resetJumps) this.jump.resetJumps();
+        inputOverride = true;
+        overrideFrames = frames;
+        moveOverride = moveInput;
+        jumpOverride = jump;
+    }
+    
 
     #region input handling
     private void captureInput()

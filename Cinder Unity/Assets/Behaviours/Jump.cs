@@ -2,10 +2,10 @@
 //using System.Numerics;
 using UnityEngine;
 
-[RequireComponent(typeof(Rigidbody2D))]
+[RequireComponent(typeof(Rigidbody2D),typeof(GroundCheck))]
 public class Jump : MonoBehaviour
 {
-
+    GroundCheck groundCheck;
     //[Range(1, 10)]
     public float jumpVelocity = 5;
     [Range(1,5)]
@@ -22,8 +22,8 @@ public class Jump : MonoBehaviour
 
     Rigidbody2D rb;
 
-    private bool isGrounded;
-    public Transform groundCheck;
+    private bool isGrounded => groundCheck.isGrounded;
+    //public Transform groundCheck;
     public float checkRadius;
     public LayerMask whatIsGround;
     private float jumpRemember = 0;
@@ -31,15 +31,11 @@ public class Jump : MonoBehaviour
 
     //Wallslide info
 
-    public float wallCheckDistance;
-    public Transform wallCheck;
-    private RaycastHit2D wallCheckHitRight;
-    private RaycastHit2D wallCheckHitLeft;
-    private bool isWallSliding = false;
-    public float maxWallSlideVelocity;
+    
 
     void Awake()
     {
+        groundCheck = GetComponent<GroundCheck>();
         rb = GetComponent<Rigidbody2D>();
         extraJumps = extraJumpValue;
         jumpRemember = 0;
@@ -48,7 +44,7 @@ public class Jump : MonoBehaviour
     void FixedUpdate()
     {
         //WallSlide start
-        wallCheckHitRight = Physics2D.Raycast(wallCheck.position, wallCheck.right, wallCheckDistance, whatIsGround);
+        /*wallCheckHitRight = Physics2D.Raycast(wallCheck.position, wallCheck.right, wallCheckDistance, whatIsGround);
         wallCheckHitLeft = Physics2D.Raycast(wallCheck.position, -wallCheck.right, wallCheckDistance, whatIsGround);
 
         if (isWallSliding)
@@ -57,7 +53,7 @@ public class Jump : MonoBehaviour
             {
                 rb.velocity = new Vector2(rb.velocity.x, -maxWallSlideVelocity);
             }
-        }
+        }*/
         //WallSlide end
         
 
@@ -67,6 +63,7 @@ public class Jump : MonoBehaviour
             rb.velocity = v;
         }
         // isGrounded = Physics2D.OverlapCircle(groundCheck.position, checkRadius, whatIsGround);
+        /*
         RaycastHit2D groundRay = Physics2D.Raycast(groundCheck.position, Vector2.down, checkRadius, whatIsGround);
        if(groundRay.collider != null)
         {
@@ -76,7 +73,7 @@ public class Jump : MonoBehaviour
         {
             isGrounded = false;
         }
-        Debug.DrawRay(groundCheck.position, new Vector2(0, -checkRadius), Color.cyan); 
+        Debug.DrawRay(groundCheck.position, new Vector2(0, -checkRadius), Color.cyan); */
         if(isGrounded)
         {
             jumpRemember = Time.time + coyoteTime;
@@ -144,6 +141,7 @@ public class Jump : MonoBehaviour
     private void Update()
     {
         //check if wall sliding
+        /*
         if (wallCheckHitRight && rb.velocity.y <= 0 && !isGrounded)
         {
             isWallSliding = true;
@@ -155,5 +153,6 @@ public class Jump : MonoBehaviour
         {
             isWallSliding = false;
         }
+        */
     }
 }
