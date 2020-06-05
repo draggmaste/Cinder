@@ -1,9 +1,11 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Cinemachine;
 
 public class CameraMod : MonoBehaviour
 {
+    public CinemachineVirtualCamera vcam;
     public int newFov;
 
     public float multiplier;
@@ -16,17 +18,30 @@ public class CameraMod : MonoBehaviour
     {
         if (isLerping)
         {
-            Camera.main.fieldOfView = Mathf.Lerp(Camera.main.fieldOfView, newFov, Time.deltaTime * multiplier);
+            vcam.m_Lens.FieldOfView = Mathf.Lerp(vcam.m_Lens.FieldOfView, newFov, Time.deltaTime * multiplier);
         }  
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if(collision.CompareTag("Player"))
         {
-            if(Camera.main.fieldOfView == newFov)
+            if(vcam.m_Lens.FieldOfView == newFov)
             {
                 return;
             } 
+            isLerping = true;
+            Invoke("EndLerp", endTime);
+        }
+    }
+    private void OnTriggerExit2D(Collider2D collision)
+    {
+        if (collision.CompareTag("Player"))
+        {
+            if (vcam.m_Lens.FieldOfView == 60)
+            {
+                return;
+            }
+            newFov = 60;
             isLerping = true;
             Invoke("EndLerp", endTime);
         }
@@ -36,6 +51,6 @@ public class CameraMod : MonoBehaviour
     private void EndLerp()
     {
         isLerping = false;
-        Camera.main.fieldOfView = newFov;
+        vcam.m_Lens.FieldOfView = newFov;
     }
 }

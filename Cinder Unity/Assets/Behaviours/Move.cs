@@ -9,6 +9,7 @@ public class Move : MonoBehaviour
     public float movementSpeed = 0.1f;
     public bool vertical;
     Rigidbody2D rb;
+    public SpriteRenderer interact;
 
     [HideInInspector]
     public bool facingRight;
@@ -30,6 +31,7 @@ public class Move : MonoBehaviour
             v.x *= -1;
             rb.transform.localScale = v;
             facingRight = false;
+            interact.flipX = true;
         }
         else if (moveInput > 0 && !facingRight)
         {
@@ -37,6 +39,7 @@ public class Move : MonoBehaviour
             v.x *= -1;
             rb.transform.localScale = v;
             facingRight = true;
+            interact.flipX = false;
         }
     }
 
