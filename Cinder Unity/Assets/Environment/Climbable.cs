@@ -37,11 +37,7 @@ public class Climbable : InteractableTrigger
         if (other.tag == "Player")
         {
             playerInRange = false;
-<<<<<<< HEAD
             text.SetActive(false);
-=======
-            Debug.Log("Player Left!");
->>>>>>> d63fd431a76aeece984e97f393b1d702741e1e53
         }
     }
 
