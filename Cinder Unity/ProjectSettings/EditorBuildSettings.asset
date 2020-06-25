@@ -15,6 +15,12 @@ EditorBuildSettings:
     path: Assets/Scenes/Sigurds test scene.unity
     guid: ef125ce8e87f052458037af66a8b4239
   - enabled: 1
+    path: Assets/Scenes/NoCheckPointScene.unity
+    guid: 8a898ff0e9101cd4bbfe28b83ce6fd2f
+  - enabled: 1
+    path: Assets/Scenes/CheckPointScene.unity
+    guid: 24bea6ce3443b2145ab415375017d8f6
+  - enabled: 1
     path: Assets/Scenes/End scene.unity
     guid: fa43df28a55e3f64faa6d441c89bf15c
   m_configObjects: {}

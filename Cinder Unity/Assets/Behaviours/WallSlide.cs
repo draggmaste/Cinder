@@ -33,17 +33,19 @@ public class WallSlide : MonoBehaviour
     {
         wallCheckHitRight = Physics2D.Raycast(wallCheck.position, wallCheck.right, wallCheckDistance, whatIsGround);
         wallCheckHitLeft = Physics2D.Raycast(wallCheck.position, -wallCheck.right, wallCheckDistance, whatIsGround);
+        Debug.DrawRay(wallCheck.position, wallCheck.right, Color.red);
+        Debug.DrawRay(wallCheck.position, -wallCheck.right, Color.blue);
         updateWallslideState();
         wallSlide();
     }
 
     private void updateWallslideState()
     {
-        if (wallCheckHitRight && rb.velocity.y <= 0 && !isGrounded)
+        if (wallCheckHitLeft && rb.velocity.y <= 0 && !isGrounded)
         {
             isWallSliding = true;
         }
-        else if (wallCheckHitLeft && rb.velocity.y <= 0 && !isGrounded)
+        else if (wallCheckHitRight && rb.velocity.y <= 0 && !isGrounded)
         {
             isWallSliding = true;
         }

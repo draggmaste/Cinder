@@ -7,12 +7,15 @@ using UnityEngine;
 
 public class FlameBar : MonoBehaviour
 {
-    public Slider flameBar;
+    
 
+    public Slider flameBar;
     public Slider part1;
     public Slider part2;
     public Slider part3;
     public Slider part4;
+
+    public bool flameBoost = false;
 
     public void SetFlame(int flame)
     {
@@ -42,6 +45,7 @@ public class FlameBar : MonoBehaviour
     private void Awake()
     {
         instance = this;
+
     }
 
 
@@ -50,9 +54,20 @@ public class FlameBar : MonoBehaviour
     {
         maxFlame = partOneFlame + partTwoFlame + partThreeFlame + partFourFlame + mainFlame;
 
+        
+
         currentFlame = maxFlame;
-        flameBar.maxValue = maxFlame;
-        flameBar.value = maxFlame;
+       // flameBar.maxValue = maxFlame;
+        //flameBar.value = maxFlame;
+    }
+
+    private void Update()
+    {
+        flameBar.value = currentFlame;
+        part4.value = currentFlame;
+        part3.value = currentFlame;
+        part2.value = currentFlame;
+        part1.value = currentFlame;
     }
 
     public void UseFlame(int amount)
@@ -61,7 +76,14 @@ public class FlameBar : MonoBehaviour
         if(currentFlame - amount >= 0)
         {
             currentFlame -= amount;
-            flameBar.value = currentFlame;
+          /*  flameBar.value = currentFlame;
+            part4.value = currentFlame;
+            part3.value = currentFlame;
+            part2.value = currentFlame;
+            part1.value = currentFlame; */
+
+            Debug.Log("PrintOutFlame" + currentFlame);
+
 
 
            regen = StartCoroutine(RegenFlame()); 
@@ -71,24 +93,73 @@ public class FlameBar : MonoBehaviour
 
         else
         {
-            gameObject.GetComponent<RespawnScript>().Respawn();
+            GameObject.FindGameObjectWithTag("Player").GetComponent<RespawnScript>().Respawn();
+
+      
         }
 
 
+    }
+
+    public void flameBoostActive()
+    {
+        flameBoost = true;
+    }
+
+    public void flameBoostUnActive()
+    {
+        flameBoost = false;
     }
 
     private IEnumerator RegenFlame()
     {
-        yield return new WaitForSeconds(1);
+       
 
-        while(currentFlame < maxFlame)
+        
+
+        
+        while (currentFlame > 1250)
         {
-            currentFlame += maxFlame / 100;
-            flameBar.value = currentFlame;
+            currentFlame += maxFlame / 1250;
+
             yield return regenTick;
 
         }
+
+        while (currentFlame > 1000 && currentFlame < 1250)
+        {
+            currentFlame += maxFlame / 1000;
+
+            yield return regenTick;
+        }
+
+        while (currentFlame > 750 && currentFlame < 1000)
+        {
+            currentFlame += maxFlame / 800;
+
+            yield return regenTick;
+        }
+
+        while (currentFlame > 500 && currentFlame < 750)
+        {
+            currentFlame += maxFlame / 700;
+
+            yield return regenTick;
+        }
+
+        while (currentFlame > 0 && currentFlame < 500)
+        {
+            currentFlame += maxFlame / 500;
+
+            yield return regenTick;
+        }
+     
+
+       
         regen = null;
+
+        
     }
+
 
 }

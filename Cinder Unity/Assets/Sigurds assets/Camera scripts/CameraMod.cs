@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 using Cinemachine;
+using DG.Tweening;
+
 
 public class CameraMod : MonoBehaviour
 {
@@ -16,11 +18,12 @@ public class CameraMod : MonoBehaviour
 
     private void Update()
     {
+        Debug.Log("is lerping" + isLerping);
         if (isLerping)
         {
             vcam.m_Lens.FieldOfView = Mathf.Lerp(vcam.m_Lens.FieldOfView, newFov, Time.deltaTime * multiplier);
         }  
-    }
+    } 
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if(collision.CompareTag("Player"))
@@ -31,6 +34,8 @@ public class CameraMod : MonoBehaviour
             } 
             isLerping = true;
             Invoke("EndLerp", endTime);
+           
+
         }
     }
     private void OnTriggerExit2D(Collider2D collision)
@@ -44,8 +49,8 @@ public class CameraMod : MonoBehaviour
             newFov = 60;
             isLerping = true;
             Invoke("EndLerp", endTime);
-        }
-    }
+        } 
+    } 
 
 
     private void EndLerp()

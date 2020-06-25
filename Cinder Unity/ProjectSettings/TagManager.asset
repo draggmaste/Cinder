@@ -6,6 +6,10 @@ TagManager:
   tags:
   - DamageOnTouch
   - SecondCam
+  - FlameBar
+  - RegenCounter
+  - FlamePickUp
+  - SoundManager
   layers:
   - Default
   - TransparentFX

@@ -1,0 +1,1126 @@
+fileFormatVersion: 2
+guid: 3aea4f8a519417b46b4166c606fdfdf6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 735143308035868649
+    second: Flame collect.png_0
+  - first:
+      213: -7216240251719781603
+    second: Flame collect.png_1
+  - first:
+      213: 2019827670497912170
+    second: Flame collect.png_2
+  - first:
+      213: 2805079066385458788
+    second: Flame collect.png_3
+  - first:
+      213: -3730238723196175259
+    second: Flame collect.png_4
+  - first:
+      213: 5072494614540693368
+    second: Flame collect.png_5
+  - first:
+      213: 1300971780208971316
+    second: Flame collect.png_6
+  - first:
+      213: 6416222570584039058
+    second: Flame collect.png_7
+  - first:
+      213: 5673766343702530680
+    second: Flame collect.png_8
+  - first:
+      213: -8093444796867321549
+    second: Flame collect.png_9
+  - first:
+      213: 7905241332882573292
+    second: Flame collect.png_10
+  - first:
+      213: -6220330501579614755
+    second: Flame collect.png_11
+  - first:
+      213: -5061649799645710338
+    second: Flame collect.png_12
+  - first:
+      213: -6437899562796953326
+    second: Flame collect.png_13
+  - first:
+      213: -7445618226492635253
+    second: Flame collect.png_14
+  - first:
+      213: -8849938163595562785
+    second: Flame collect.png_15
+  - first:
+      213: -7558047215703471255
+    second: Flame collect.png_16
+  - first:
+      213: 8900232638718266289
+    second: Flame collect.png_17
+  - first:
+      213: 3605388265609768776
+    second: Flame collect.png_18
+  - first:
+      213: 4034243794704980429
+    second: Flame collect.png_19
+  - first:
+      213: 4479355916268149432
+    second: Flame collect.png_20
+  - first:
+      213: 2123001605115393968
+    second: Flame collect.png_21
+  - first:
+      213: 6361299218780538630
+    second: Flame collect.png_22
+  - first:
+      213: -7663285976051286006
+    second: Flame collect.png_23
+  - first:
+      213: 6647838558147015456
+    second: Flame collect.png_24
+  - first:
+      213: 1608281447577883189
+    second: Flame collect.png_25
+  - first:
+      213: 8700392320514856085
+    second: Flame collect.png_26
+  - first:
+      213: -3037832794379821605
+    second: Flame collect.png_27
+  - first:
+      213: -5684218821523131011
+    second: Flame collect.png_28
+  - first:
+      213: -4423588762051686557
+    second: Flame collect.png_0
+  - first:
+      213: -5588878320721149650
+    second: Flame collect.png_1
+  - first:
+      213: -3518093449127123535
+    second: Flame collect.png_2
+  - first:
+      213: 3927589712272524543
+    second: Flame collect.png_3
+  - first:
+      213: 5197596430470928454
+    second: Flame collect.png_4
+  - first:
+      213: -2012477569590793566
+    second: Flame collect.png_5
+  - first:
+      213: -8734709077737927073
+    second: Flame collect.png_6
+  - first:
+      213: -3074843692246903067
+    second: Flame collect.png_7
+  - first:
+      213: -1738367404153486376
+    second: Flame collect.png_8
+  - first:
+      213: 2708751735260776988
+    second: Flame collect.png_9
+  - first:
+      213: 1944983506207577629
+    second: Flame collect.png_10
+  - first:
+      213: 2823311001142160016
+    second: Flame collect.png_11
+  - first:
+      213: 8676785042166404302
+    second: Flame collect.png_12
+  - first:
+      213: -8937897552857119697
+    second: Flame collect.png_13
+  - first:
+      213: -1581037569141709011
+    second: Flame collect.png_14
+  - first:
+      213: -4120591420309073377
+    second: Flame collect.png_15
+  - first:
+      213: -4111434442027211360
+    second: Flame collect.png_16
+  - first:
+      213: 9202029015349338367
+    second: Flame collect.png_17
+  - first:
+      213: 2614724810146905907
+    second: Flame collect.png_18
+  - first:
+      213: -6054148740003828091
+    second: Flame collect.png_19
+  - first:
+      213: -7761448573820165510
+    second: Flame collect.png_20
+  - first:
+      213: 5708082717807456419
+    second: Flame collect.png_21
+  - first:
+      213: 6674944911389577303
+    second: Flame collect.png_22
+  - first:
+      213: -8102398409118187699
+    second: Flame collect.png_23
+  - first:
+      213: -3341034094473751983
+    second: Flame collect.png_24
+  - first:
+      213: 7559870656239704867
+    second: Flame collect.png_25
+  - first:
+      213: 1507745222072541735
+    second: Flame collect.png_26
+  - first:
+      213: -1356503584559917204
+    second: Flame collect.png_27
+  - first:
+      213: -6472427464381527685
+    second: Flame collect.png_28
+  - first:
+      213: -2023673338791674403
+    second: Flame collect.png_29
+  - first:
+      213: -2194133306961011035
+    second: Flame collect.png_30
+  - first:
+      213: -6787785048632593415
+    second: Flame collect.png_31
+  - first:
+      213: -8823318082182136170
+    second: Flame collect.png_32
+  - first:
+      213: -427475394005150341
+    second: Flame collect.png_33
+  - first:
+      213: 6189332149785523234
+    second: Flame collect.png_34
+  - first:
+      213: 1068308516323957133
+    second: Flame collect.png_35
+  - first:
+      213: 5599483078215830668
+    second: Flame collect.png_36
+  - first:
+      213: -9190553991496698601
+    second: Flame collect.png_37
+  - first:
+      213: -8950386290515266324
+    second: Flame collect.png_38
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Flame collect.png_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 643
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7cb7691f0c33a00800000000000000
+      internalID: 735143308035868649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect.png_1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 648
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13fd5e69b3cadb90800000000000000
+      internalID: -7216240251719781603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect.png_2
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 646
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a656887909ed70c10800000000000000
+      internalID: 2019827670497912170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect.png_3
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 644
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4662ac68c84ade620800000000000000
+      internalID: 2805079066385458788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect.png_4
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 646
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c3c7815a78b3cc0800000000000000
+      internalID: -3730238723196175259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect.png_5
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 652
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87fa7c80afe156640800000000000000
+      internalID: 5072494614540693368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect.png_6
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 652
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ec926f0fafd0210800000000000000
+      internalID: 1300971780208971316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect.png_7
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 554
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e518fee600b0950800000000000000
+      internalID: 6416222570584039058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect.png_8
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 554
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ac4febd644dbe40800000000000000
+      internalID: 5673766343702530680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect.png_9
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 455
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3316d7196de4eaf80800000000000000
+      internalID: -8093444796867321549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect.png_10
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 455
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce78336cb1f05bd60800000000000000
+      internalID: 7905241332882573292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect.png_11
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 456
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5d1d39d52fca9a0800000000000000
+      internalID: -6220330501579614755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect.png_12
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 456
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7b0b2335861c9b0800000000000000
+      internalID: -5061649799645710338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect.png_13
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 456
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21158d3057cf7a6a0800000000000000
+      internalID: -6437899562796953326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect.png_14
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 457
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b878bbceba9dba890800000000000000
+      internalID: -7445618226492635253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect.png_15
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 457
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0b6b21124be2580800000000000000
+      internalID: -8849938163595562785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect.png_16
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 255
+        width: 20
+        height: 18
+      alignment: 9
+      pivot: {x: 0.57468796, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b4d500a1c6c1790800000000000000
+      internalID: -7558047215703471255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect.png_17
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 357
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbc321fd6af38b70800000000000000
+      internalID: 8900232638718266289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect.png_18
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 258
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f28018689e80230800000000000000
+      internalID: 3605388265609768776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect.png_19
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 357
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9d6b06b538cf730800000000000000
+      internalID: 4034243794704980429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect.png_20
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 258
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba15b3297ed92e30800000000000000
+      internalID: 4479355916268149432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect.png_21
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 357
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7bc7236ba667d10800000000000000
+      internalID: 2123001605115393968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect.png_22
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 258
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60742659fefd74850800000000000000
+      internalID: 6361299218780538630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect.png_23
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 357
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a000b31b10a86a590800000000000000
+      internalID: -7663285976051286006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect.png_24
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 258
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0237f7662fdd14c50800000000000000
+      internalID: 6647838558147015456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect.png_25
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 358
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5321bbd9473c15610800000000000000
+      internalID: 1608281447577883189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect.png_26
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 258
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59413d608b00eb870800000000000000
+      internalID: 8700392320514856085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect.png_27
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 358
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd55fb2b2377d5d0800000000000000
+      internalID: -3037832794379821605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect.png_28
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 354
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75368d19199d11b0800000000000000
+      internalID: -5684218821523131011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect.png_29
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 551
+        width: 8
+        height: 9
+      alignment: 9
+      pivot: {x: 0.60308075, y: 0.49998644}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dddb4ebf1d77ae3e0800000000000000
+      internalID: -2023673338791674403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect.png_30
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 548
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae5cb0e16fdc81e0800000000000000
+      internalID: -2194133306961011035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect.png_31
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 543
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3fb842671fcc1a0800000000000000
+      internalID: -6787785048632593415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect.png_32
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 545
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69eb043c3f64d8580800000000000000
+      internalID: -8823318082182136170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect.png_33
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 547
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b755a1ed46d411af0800000000000000
+      internalID: -427475394005150341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect.png_34
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 547
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224fed83ccce4e550800000000000000
+      internalID: 6189332149785523234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect.png_35
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 546
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89930a7fe463de00800000000000000
+      internalID: 1068308516323957133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect.png_36
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 249
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c8dda313c55bd40800000000000000
+      internalID: 5599483078215830668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect.png_37
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 152
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7157acf96d7947080800000000000000
+      internalID: -9190553991496698601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect.png_38
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 147
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4bf470717d9c380800000000000000
+      internalID: -8950386290515266324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

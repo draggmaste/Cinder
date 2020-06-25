@@ -1,0 +1,1348 @@
+fileFormatVersion: 2
+guid: fcfff47e1f01e564b9142b0a65c3d716
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -750751477987375889
+    second: Flame collect_0
+  - first:
+      213: 931845269376613823
+    second: Flame collect_1
+  - first:
+      213: -6272748963441789162
+    second: Flame collect_2
+  - first:
+      213: -8735238662234138437
+    second: Flame collect_3
+  - first:
+      213: 6669357473380733137
+    second: Flame collect_4
+  - first:
+      213: 6697497808207692612
+    second: Flame collect_5
+  - first:
+      213: -3883203978631412249
+    second: Flame collect_6
+  - first:
+      213: -6119137755193772838
+    second: Flame collect_7
+  - first:
+      213: 269038994628703196
+    second: Flame collect_8
+  - first:
+      213: -3866788456163874609
+    second: Flame collect_9
+  - first:
+      213: 2936400337631042100
+    second: Flame collect_10
+  - first:
+      213: 5427303794468333624
+    second: Flame collect_11
+  - first:
+      213: 8169730800970612206
+    second: Flame collect_12
+  - first:
+      213: -919894914387342801
+    second: Flame collect_13
+  - first:
+      213: 7380025874463204489
+    second: Flame collect_14
+  - first:
+      213: 2330656422897805365
+    second: Flame collect_15
+  - first:
+      213: 4024014751276309136
+    second: Flame collect_16
+  - first:
+      213: 8720626012020857816
+    second: Flame collect_17
+  - first:
+      213: -2850026633535188891
+    second: Flame collect_18
+  - first:
+      213: -4923906134365236831
+    second: Flame collect_19
+  - first:
+      213: 3296971687436300414
+    second: Flame collect_20
+  - first:
+      213: -6525877894602232062
+    second: Flame collect_21
+  - first:
+      213: -9056586701477702681
+    second: Flame collect_22
+  - first:
+      213: -3630427956112834713
+    second: Flame collect_23
+  - first:
+      213: -2792328523099359425
+    second: Flame collect_24
+  - first:
+      213: -3801617555447283576
+    second: Flame collect_25
+  - first:
+      213: -3782821798414641532
+    second: Flame collect_26
+  - first:
+      213: 996171122125481500
+    second: Flame collect_27
+  - first:
+      213: 1888826360766166118
+    second: Flame collect_28
+  - first:
+      213: -3224666410890352409
+    second: Flame collect_29
+  - first:
+      213: 6869099410796147259
+    second: Flame collect_30
+  - first:
+      213: 4861108143609597953
+    second: Flame collect_31
+  - first:
+      213: 7943481902818006015
+    second: Flame collect_32
+  - first:
+      213: -6145125472515885286
+    second: Flame collect_33
+  - first:
+      213: -1818880891806614174
+    second: Flame collect_34
+  - first:
+      213: -1171508873881064581
+    second: Flame collect_35
+  - first:
+      213: -5117678880272374950
+    second: Flame collect_36
+  - first:
+      213: -6405853898490251711
+    second: Flame collect_37
+  - first:
+      213: -8926218782092105423
+    second: Flame collect_38
+  - first:
+      213: -5062534580112417338
+    second: Flame collect_39
+  - first:
+      213: -2135646471857330921
+    second: Flame collect_40
+  - first:
+      213: -4788297944431545851
+    second: Flame collect_41
+  - first:
+      213: 2235265357839070147
+    second: Flame collect_42
+  - first:
+      213: -4369278529779923467
+    second: Flame collect_43
+  - first:
+      213: 4462612126891008876
+    second: Flame collect_44
+  - first:
+      213: -5113334740108715256
+    second: Flame collect_45
+  - first:
+      213: 7285895744147535719
+    second: Flame collect_46
+  - first:
+      213: -6294917978337015613
+    second: Flame collect_47
+  - first:
+      213: -3834661760117693959
+    second: Flame collect_48
+  - first:
+      213: 3587544439763163918
+    second: Flame collect_49
+  - first:
+      213: 301607909914683869
+    second: Flame collect_50
+  - first:
+      213: -894006573098584193
+    second: Flame collect_51
+  - first:
+      213: 1363254642918628989
+    second: Flame collect_52
+  - first:
+      213: -9083333569797430317
+    second: Flame collect_53
+  - first:
+      213: 1780659811265524485
+    second: Flame collect_54
+  - first:
+      213: -2913672604524223614
+    second: Flame collect_55
+  - first:
+      213: -5115500836233905767
+    second: Flame collect_56
+  - first:
+      213: -345090309771917076
+    second: Flame collect_57
+  - first:
+      213: 8101093081579318701
+    second: Flame collect_58
+  - first:
+      213: 844729905892780185
+    second: Flame collect_59
+  - first:
+      213: 2692536604640653396
+    second: Flame collect_60
+  - first:
+      213: 449203032420093654
+    second: Flame collect_61
+  - first:
+      213: -584653331271184694
+    second: Flame collect_62
+  - first:
+      213: -1686046411544645358
+    second: Flame collect_63
+  - first:
+      213: -690424914870083489
+    second: Flame collect_64
+  - first:
+      213: 1288439061295812734
+    second: Flame collect_65
+  - first:
+      213: -6860428587259258337
+    second: Flame collect_66
+  - first:
+      213: -7119931846505048658
+    second: Flame collect_67
+  - first:
+      213: -4964849635620486755
+    second: Flame collect_68
+  - first:
+      213: -1328740162391536937
+    second: Flame collect_69
+  - first:
+      213: 4995820121450954592
+    second: Flame collect_70
+  - first:
+      213: -5825641490547832320
+    second: Flame collect_71
+  - first:
+      213: 4286390547949089599
+    second: Flame collect_72
+  - first:
+      213: -4247372217976360041
+    second: Flame collect_73
+  - first:
+      213: 7279085825847553585
+    second: Flame collect_74
+  - first:
+      213: 1417859868100615312
+    second: Flame collect_75
+  - first:
+      213: 4977047493837986731
+    second: Flame collect_76
+  - first:
+      213: -4773667914453927843
+    second: Flame collect_77
+  - first:
+      213: 3175813292560603739
+    second: Flame collect_78
+  - first:
+      213: -1843828510942197962
+    second: Flame collect_79
+  - first:
+      213: 3158415656758051522
+    second: Flame collect_80
+  - first:
+      213: 3176236552033599467
+    second: Flame collect_81
+  - first:
+      213: -1717861610576922713
+    second: Flame collect_82
+  - first:
+      213: -7844004189894621002
+    second: Flame collect_83
+  - first:
+      213: 6156909756759579269
+    second: Flame collect_84
+  - first:
+      213: -279481941411545579
+    second: Flame collect_85
+  - first:
+      213: 6130794494918412912
+    second: Flame collect_86
+  - first:
+      213: 2785974249486699789
+    second: Flame collect_87
+  - first:
+      213: -1521051549677766480
+    second: Flame collect_88
+  - first:
+      213: -8228947165373914672
+    second: Flame collect_89
+  - first:
+      213: 2696309143552934504
+    second: Flame collect_90
+  - first:
+      213: 8438981177710072720
+    second: Flame collect_91
+  - first:
+      213: 4303220877324510947
+    second: Flame collect_92
+  - first:
+      213: 611605648044709317
+    second: Flame collect_93
+  - first:
+      213: -1035903649560848731
+    second: Flame collect_94
+  - first:
+      213: 5549805618704925682
+    second: Flame collect_95
+  - first:
+      213: 7214484469126869202
+    second: Flame collect_96
+  - first:
+      213: 516367025814658916
+    second: Flame collect_97
+  - first:
+      213: 2703725680192327874
+    second: Flame collect_98
+  - first:
+      213: -9168380411276948152
+    second: Flame collect_99
+  - first:
+      213: -6715947871165193583
+    second: Flame collect_100
+  - first:
+      213: 5087872781914464035
+    second: Flame collect_101
+  - first:
+      213: -4169829948332920147
+    second: Flame collect_102
+  - first:
+      213: 7073828741069597513
+    second: Flame collect_103
+  - first:
+      213: -1868349682851860383
+    second: Flame collect_104
+  - first:
+      213: 8704329674843885973
+    second: Flame collect_105
+  - first:
+      213: -6211139236387601096
+    second: Flame collect_106
+  - first:
+      213: -7375051940190068221
+    second: Flame collect_107
+  - first:
+      213: 1822975167994188089
+    second: Flame collect_108
+  - first:
+      213: 8483863978492592796
+    second: Flame collect_109
+  - first:
+      213: 3281243099019509885
+    second: Flame collect_110
+  - first:
+      213: -6429335655970828644
+    second: Flame collect_111
+  - first:
+      213: -1649305683396882732
+    second: Flame collect_112
+  - first:
+      213: -6402221137479296353
+    second: Flame collect_113
+  - first:
+      213: -3210140798996209439
+    second: Flame collect_114
+  - first:
+      213: -8757049535938537347
+    second: Flame collect_115
+  - first:
+      213: -4408359639773860922
+    second: Flame collect_116
+  - first:
+      213: -2626758777416083864
+    second: Flame collect_117
+  - first:
+      213: -816857235225142554
+    second: Flame collect_118
+  - first:
+      213: 4615609391652062503
+    second: Flame collect_119
+  - first:
+      213: 4468008083434818007
+    second: Flame collect_0
+  - first:
+      213: 6671877660182236499
+    second: Flame collect_1
+  - first:
+      213: -1990826323320867633
+    second: Flame collect_2
+  - first:
+      213: -7586311141028562158
+    second: Flame collect_3
+  - first:
+      213: 656647128596943297
+    second: Flame collect_4
+  - first:
+      213: 7459131242542284807
+    second: Flame collect_5
+  - first:
+      213: -3169715798684476203
+    second: Flame collect_6
+  - first:
+      213: -8330738029920456174
+    second: Flame collect_7
+  - first:
+      213: -6683388289804754872
+    second: Flame collect_8
+  - first:
+      213: -1255321926941407006
+    second: Flame collect_9
+  - first:
+      213: 4891875154182957945
+    second: Flame collect_10
+  - first:
+      213: 4754269424287067231
+    second: Flame collect_11
+  - first:
+      213: -2460727331538501911
+    second: Flame collect_12
+  - first:
+      213: -2622638079895650044
+    second: Flame collect_13
+  - first:
+      213: 9168301030204566644
+    second: Flame collect_14
+  - first:
+      213: -1800702695419504300
+    second: Flame collect_15
+  - first:
+      213: 3829114597964571352
+    second: Flame collect_16
+  - first:
+      213: -6229873408534940122
+    second: Flame collect_17
+  - first:
+      213: 103745658936632326
+    second: Flame collect_18
+  - first:
+      213: 7662977013427263363
+    second: Flame collect_19
+  - first:
+      213: 7328770472004308732
+    second: Flame collect_20
+  - first:
+      213: 6259936007473648500
+    second: Flame collect_21
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Flame collect_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 638
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9c4baedad810e30800000000000000
+      internalID: 4468008083434818007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 637
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35dc6000265479c50800000000000000
+      internalID: 6671877660182236499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect_2
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 636
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc476fcb10a2f54e0800000000000000
+      internalID: -1990826323320867633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect_3
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 636
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b7763163208b690800000000000000
+      internalID: -7586311141028562158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect_4
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 633
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c11dca9511ec1900800000000000000
+      internalID: 656647128596943297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect_5
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 633
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70040cc4858248760800000000000000
+      internalID: 7459131242542284807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect_6
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 629
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dcd7746648e204d0800000000000000
+      internalID: -3169715798684476203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect_7
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 528
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212f0c166e5436c80800000000000000
+      internalID: -8330738029920456174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect_8
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 527
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840ae22b2c5df33a0800000000000000
+      internalID: -6683388289804754872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect_9
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 527
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e806e1cb53349ee0800000000000000
+      internalID: -1255321926941407006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect_10
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 526
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b62a2d88e63e340800000000000000
+      internalID: 4891875154182957945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect_11
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 525
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ca1292ade8af140800000000000000
+      internalID: 4754269424287067231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect_12
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 525
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee7d8a878db9ddd0800000000000000
+      internalID: -2460727331538501911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect_13
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 525
+        width: 56
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4014869cf848a9bd0800000000000000
+      internalID: -2622638079895650044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect_14
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 425
+        width: 62
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ce03316395c3f70800000000000000
+      internalID: 9168301030204566644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect_15
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 425
+        width: 59
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4599e65607e9207e0800000000000000
+      internalID: -1800702695419504300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect_16
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 455
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2e0f7707fb32530800000000000000
+      internalID: 3829114597964571352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect_17
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 420
+        width: 62
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6267f98642b0b89a0800000000000000
+      internalID: -6229873408534940122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect_18
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 455
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60428eb8024907100800000000000000
+      internalID: 103745658936632326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect_19
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 455
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387d0575efc585a60800000000000000
+      internalID: 7662977013427263363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect_20
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 456
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe40303ae505b560800000000000000
+      internalID: 7328770472004308732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect_21
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 456
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473d42ad1a2cfd650800000000000000
+      internalID: 6259936007473648500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect_22
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 456
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e315ecf06a805280800000000000000
+      internalID: -9056586701477702681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect_23
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 415
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f3f3d32012e9dc0800000000000000
+      internalID: -3630427956112834713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect_24
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 415
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37b87ca008af39d0800000000000000
+      internalID: -2792328523099359425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect_25
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 428
+        width: 56
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8800da3a9f0fd3bc0800000000000000
+      internalID: -3801617555447283576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect_26
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 436
+        width: 57
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48614e8dd97b08bc0800000000000000
+      internalID: -3782821798414641532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect_27
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 335
+        width: 52
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16aacd8b5c13dd00800000000000000
+      internalID: 996171122125481500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect_28
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 157
+        width: 9
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6647cd35195763a10800000000000000
+      internalID: 1888826360766166118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect_29
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 356
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e82fbbfbfeaf33d0800000000000000
+      internalID: -3224666410890352409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect_30
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 158
+        width: 8
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3279532581f35f50800000000000000
+      internalID: 6869099410796147259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect_31
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 356
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100db92f910267340800000000000000
+      internalID: 4861108143609597953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect_32
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 257
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3163944baec3e60800000000000000
+      internalID: 7943481902818006015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect_33
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 357
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a177c76e0f028baa0800000000000000
+      internalID: -6145125472515885286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect_34
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 257
+        width: 9
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26dfe1b377902c6e0800000000000000
+      internalID: -1818880891806614174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect_35
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 257
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7be919d2e6fdbfe0800000000000000
+      internalID: -1171508873881064581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect_36
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 357
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53a8da4c2a5af8b0800000000000000
+      internalID: -5117678880272374950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect_37
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 257
+        width: 8
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146ff69a1d5d917a0800000000000000
+      internalID: -6405853898490251711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame collect_38
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 257
+        width: 10
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139eaf19f43bf1480800000000000000
+      internalID: -8926218782092105423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
